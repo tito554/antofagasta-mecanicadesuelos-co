@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Antofagasta
+
+> Geotechnical engineering services in Antofagasta, Chile.
+
+## Services
+- [Aislacion Sismica](https://antofagasta.mecanicadesuelos.co/aislacion-sismica/)
+- [Anclajes](https://antofagasta.mecanicadesuelos.co/anclajes/)
+- [Calicatas](https://antofagasta.mecanicadesuelos.co/calicatas/)
+- [Cbr Vial](https://antofagasta.mecanicadesuelos.co/cbr-vial/)
+- [Cimentaciones](https://antofagasta.mecanicadesuelos.co/cimentaciones/)
+- [Columnas Grava](https://antofagasta.mecanicadesuelos.co/columnas-grava/)
+- [Densidad Cono Arena](https://antofagasta.mecanicadesuelos.co/densidad-cono-arena/)
+- [Ensayo Cpt](https://antofagasta.mecanicadesuelos.co/ensayo-cpt/)
+- [Ensayos Proctor](https://antofagasta.mecanicadesuelos.co/ensayos-proctor/)
+- [Estabilidad Taludes](https://antofagasta.mecanicadesuelos.co/estabilidad-taludes/)
+- [Excavaciones Profundas](https://antofagasta.mecanicadesuelos.co/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://antofagasta.mecanicadesuelos.co/excavaciones-subterraneo/)
+- [Exploracion](https://antofagasta.mecanicadesuelos.co/exploracion/)
+- [Geotecnia Vial](https://antofagasta.mecanicadesuelos.co/geotecnia-vial/)
+- [Granulometria](https://antofagasta.mecanicadesuelos.co/granulometria/)
+- [Inyecciones](https://antofagasta.mecanicadesuelos.co/inyecciones/)
+- [Laboratorio In Situ](https://antofagasta.mecanicadesuelos.co/laboratorio-in-situ/)
+- [Laboratorio Lab](https://antofagasta.mecanicadesuelos.co/laboratorio-lab/)
+- [Licuefaccion](https://antofagasta.mecanicadesuelos.co/licuefaccion/)
+- [Limites Atterberg](https://antofagasta.mecanicadesuelos.co/limites-atterberg/)
+- [Losas Fundacion](https://antofagasta.mecanicadesuelos.co/losas-fundacion/)
+- [Masw](https://antofagasta.mecanicadesuelos.co/masw/)
+- [Mejoramiento](https://antofagasta.mecanicadesuelos.co/mejoramiento/)
+- [Microzonificacion Sismica](https://antofagasta.mecanicadesuelos.co/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://antofagasta.mecanicadesuelos.co/monitoreo-excavaciones/)
+- [Muros Contencion](https://antofagasta.mecanicadesuelos.co/muros-contencion/)
+- [Pavimento Flexible](https://antofagasta.mecanicadesuelos.co/pavimento-flexible/)
+- [Pavimento Rigido](https://antofagasta.mecanicadesuelos.co/pavimento-rigido/)
+- [Permeabilidad In Situ](https://antofagasta.mecanicadesuelos.co/permeabilidad-in-situ/)
+- [Pilotes](https://antofagasta.mecanicadesuelos.co/pilotes/)
+- [Refraccion Sismica](https://antofagasta.mecanicadesuelos.co/refraccion-sismica/)
+- [Resistividad](https://antofagasta.mecanicadesuelos.co/resistividad/)
+- [Sismica](https://antofagasta.mecanicadesuelos.co/sismica/)
+- [Sondajes Spt](https://antofagasta.mecanicadesuelos.co/sondajes-spt/)
+- [Taludes](https://antofagasta.mecanicadesuelos.co/taludes/)
+- [Triaxial](https://antofagasta.mecanicadesuelos.co/triaxial/)
+- [Tuneles Suelo Blando](https://antofagasta.mecanicadesuelos.co/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://antofagasta.mecanicadesuelos.co/vibrocompactacion/)
+- [Zapatas](https://antofagasta.mecanicadesuelos.co/zapatas/)
+
+## Contact
+- Website: https://antofagasta.mecanicadesuelos.co/
+
+## About
+This site provides geotechnical engineering services in Antofagasta, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
